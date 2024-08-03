@@ -1,0 +1,62 @@
+{
+    "0": {
+        "loan_category": "Higher Risk",
+        "loan_features": {
+            "loan_amount": "Lower Loan Amounts: Smaller loan amounts due to higher risk.",
+            "interest_rates": "Higher Interest Rates: Increased rates to compensate for higher risk.",
+            "repayment_periods": "Shorter Repayment Periods: Quick recovery of funds to minimize exposure.",
+            "collateral_requirement": "Collateral Requirement: Collateral required to secure the loan.",
+            "repayment_terms": "Flexible Repayment Terms: Options to adjust payments based on financial situation.",
+            "credit_monitoring": "Credit Monitoring: Regular monitoring to ensure timely payments.",
+            "financial_counseling": "Financial Counseling: Access to advisory services to improve financial health."
+        }
+    },
+    "1": {
+        "loan_category": "Moderate Risk",
+        "loan_features": {
+            "loan_amount": "Moderate Loan Amounts: Loan amounts are moderate, reflecting a balanced risk profile.",
+            "interest_rates": "Moderate Interest Rates: Rates are higher than the lowest risk categories but lower than Category 0.",
+            "repayment_periods": "Moderate Repayment Periods: Balanced repayment period length.",
+            "collateral_requirement": "Collateral Requirement: Collateral may still be required.",
+            "repayment_terms": "Flexible Repayment Terms: Some flexibility in repayment options.",
+            "credit_checks": "Regular Credit Checks: Periodic credit monitoring.",
+            "financial_advisory_services": "Financial Advisory Services: Optional access to financial advisory services."
+        }
+    },
+    "2": {
+        "loan_category": "Balanced Risk",
+        "loan_features": {
+            "loan_amount": "Standard Loan Amounts: Standard loan amounts suitable for average risk.",
+            "interest_rates": "Standard Interest Rates: Competitive rates reflecting balanced risk.",
+            "repayment_periods": "Standard Repayment Periods: Average repayment period length.",
+            "collateral_requirement": "Collateral Requirement: Collateral required depending on loan amount.",
+            "repayment_terms": "Standard Repayment Terms: Standard repayment options.",
+            "credit_reviews": "Periodic Credit Reviews: Occasional credit monitoring.",
+            "financial_services": "Optional Financial Services: Optional access to financial services."
+        }
+    },
+    "3": {
+        "loan_category": "Low Risk",
+        "loan_features": {
+            "loan_amount": "Higher Loan Amounts: Larger loan amounts available due to lower risk.",
+            "interest_rates": "Lower Interest Rates: More favorable rates reflecting lower risk.",
+            "repayment_periods": "Longer Repayment Periods: Extended repayment periods to facilitate business growth.",
+            "collateral_requirement": "Minimal Collateral Requirement: Collateral requirements are minimal.",
+            "repayment_terms": "Flexible Repayment Terms: Highly flexible repayment options.",
+            "credit_checks": "Infrequent Credit Checks: Minimal credit monitoring.",
+            "financial_services": "Optional Financial Services: Access to value-added financial services."
+        }
+    },
+    "4": {
+        "loan_category": "Lowest Risk",
+        "loan_features": {
+            "loan_amount": "Highest Loan Amounts: Maximum loan amounts for the best risk profiles.",
+            "interest_rates": "Lowest Interest Rates: Best rates due to minimal risk.",
+            "repayment_periods": "Longest Repayment Periods: Longest available repayment periods.",
+            "collateral_requirement": "No Collateral Requirement: Loans may be unsecured.",
+            "repayment_terms": "Highly Flexible Repayment Terms: Maximum flexibility in repayment.",
+            "credit_checks": "Minimal Credit Checks: Very minimal credit monitoring.",
+            "financial_services": "Premium Financial Services: Access to premium financial services and advisory."
+        }
+    }
+}
